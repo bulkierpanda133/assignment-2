@@ -3,7 +3,7 @@ print("i can identify the greatest and smallest\n")
 
 name = input("so what is your name\n")
  
-number1 =float(input(f"give and a number {name}?!\n"))
+number1 =float(input(f"give me a number {name}?!\n"))
 number2 =float(input(f"now a second number {name}?!\n"))
 number3 =float(input(f"now a third number {name}?!\n"))
 
